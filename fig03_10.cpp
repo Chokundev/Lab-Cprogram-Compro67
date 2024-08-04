@@ -39,5 +39,5 @@ int main(void) {
 		printf("Bonus to instructor!\n");
 	} /* end if */
 
-		return 0; /* indicate program ended successfully */
+	return 0; /* indicate program ended successfully */
 } /* end function main */
