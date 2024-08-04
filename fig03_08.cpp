@@ -5,7 +5,7 @@
 
 /* function main begins program excution */
 int main(void) {
-		int counter; /* number of grade entered */
+	int counter; /* number of grade entered */
 		int grade; /* grade value */
 		int total; /* sum of grades */
 
