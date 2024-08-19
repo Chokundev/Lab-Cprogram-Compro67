@@ -7,11 +7,11 @@
 int main(void) {
 
 	int grade; /* one grade */
-	int aCount; /* number of As */
-	int bCount; /* number of Bs */
-	int cCount; /* number of Cs */
-	int dCount; /* number of Ds */
-	int fCount; /* number of Fs */
+	int aCount = 0; /* number of As */
+	int bCount = 0; /* number of Bs */
+	int cCount = 0; /* number of Cs */
+	int dCount = 0; /* number of Ds */
+	int fCount = 0; /* number of Fs */
 
 	printf("Enter the letter grades.\n");
 	printf("Enter the EOF character to end input./n");
